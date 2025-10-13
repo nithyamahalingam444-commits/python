@@ -6,7 +6,7 @@ print ("S subtraction")
 print("M multipllication")
 print ("D division")
 opration=input("select a operation")
-if opration=="a":
+if opration=="A":
     print(a+b)
 elif opration=="S":
         print(a-b)
